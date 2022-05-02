@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jitseve
-- 👀 I’m interested in (elite) sports related technologies
-- 🌱 I’m currently working on app development (android-java) and creating software to process IMU data (python) and the frontend belonging to that software (HTML and Python Flask)
-- 💞️ I’m looking to collaborate on nothing yet, since I am still in studies. However if you have a really cool elite sports related project, make sure to send me an email!  
-- 📫 How to reach me: jj.ve.student@gmail.com
+- 👋 I’m @jitseve
+- 👀 Big nerd about sports related technologies and multimedia design (3d animating, VJing)
+- 🌱 Currently working in app development (Android), sports software development (python), various frontend projects (HTML, CSS) and as VJ (blender 3D animating, GIMP)
+- 💞️ Don't have much time for collaborations yet, but feel free to hook me up for sports related   
+- 📫 How to reach me: jj.ve.student@gmail.com or www.jitsevanesch.nl
 
 ## Skills
 <p align="left">
