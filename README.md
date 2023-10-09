@@ -1,8 +1,8 @@
-- 👋 I’m @jitseve
+- 👋 I’m @yeetivity
 - 👀 Big nerd about sports related technologies and multimedia design (3d animating, VJing)
 - 🌱 Currently working in app development (Android), sports software development (python), various frontend projects (HTML, CSS) and as VJ (blender 3D animating, GIMP)
 - 💞️ Don't have much time for collaborations yet, but feel free to hook me up for sports related   
-- 📫 How to reach me: jj.ve.student@gmail.com or www.jitsevanesch.nl
+- 📫 How to reach me: jj.ve.student@gmail.com
 
 ## Skills
 <p align="left">
@@ -23,12 +23,12 @@
 
 # My GitHub Stats
 
-<a href="http://www.github.com/jitseve"><img src="https://github-readme-stats.vercel.app/api?username=jitseve&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jitseve's GitHub stats" /></a>
+<a href="http://www.github.com/jitseve"><img src="https://github-readme-stats.vercel.app/api?username=yeetivity&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jitseve's GitHub stats" /></a>
 
-<a href="http://www.github.com/jitseve"><img src="https://activity-graph.herokuapp.com/graph?username=jitseve&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/jitseve"><img src="https://activity-graph.herokuapp.com/graph?username=yeetivity&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/jitseve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitseve&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/jitseve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeetivity&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <!---
-jitseve/jitseve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+yeetivity/yeetivity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
