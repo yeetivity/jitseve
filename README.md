@@ -3,16 +3,14 @@
 Welcome to epicness! This is the place where tech meets design, and designed tech meets (elite) sports!
 
 About me:
-- 🙋🏻‍♂️ Co-Founder and CEO @WODPacer
+- 🙋🏻‍♂️ Interim Lecturer and Software Developer for KTH Royal Institute of Technology
 - 🧐 MSc Sports Technology, BSc Biomedical Engineering
-- 👀 Big nerd about sports related technologies and multimedia design
-- 💼 Currently work as a freelance interim lecturer and software developer at KTH
+- 👀 Big nerd about sports related technologies and multimedia/graphic design
 - 👁️ Making sports technology available in any sport!
 - 📫 How to reach me: jj.ve.student@gmail.com
 
 Ongoing projects:
 - WAITapp: collaboration with KI to develop a lifestyle app for patients with heart fibrilations | Not publicly available
-- WODPacer: pace and intensity tracker for CrossFit (app, web, and backend development) | Not publicly available
 - Mobile Applications Course | A KTH hosted master course to teach mobile application development for sports
 
 Projects worth sharing:
